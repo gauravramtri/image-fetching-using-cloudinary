@@ -1,0 +1,19 @@
+{
+  "name": "beginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.5.10",
+    "multer": "^1.4.1"
+  }
+}
